@@ -1,0 +1,15 @@
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\bin\Debug\net6.0\ZD52.exe
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\bin\Debug\net6.0\ZD52.deps.json
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\bin\Debug\net6.0\ZD52.runtimeconfig.json
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\bin\Debug\net6.0\ZD52.dll
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\bin\Debug\net6.0\ZD52.pdb
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ZD52.csproj.AssemblyReference.cache
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ZD52.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ZD52.AssemblyInfoInputs.cache
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ZD52.AssemblyInfo.cs
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ZD52.csproj.CoreCompileInputs.cache
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ZD52.dll
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\refint\ZD52.dll
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ZD52.pdb
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ZD52.genruntimeconfig.cache
+D:\GeekBrains\DZ\DZ_7\Sem7_DZ\ZD52\obj\Debug\net6.0\ref\ZD52.dll
